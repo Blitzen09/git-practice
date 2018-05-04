@@ -1,0 +1,4 @@
+Name: Eduardo Mijangos
+Age: 27
+Favorite color: Blue
+
